@@ -1,2 +1,2 @@
 # clinical memo
-[便秘](./constipation)
+[便秘](./constipation.md)
