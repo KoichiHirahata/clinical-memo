@@ -61,3 +61,9 @@ VICSより良いように思う。
 
 * ケフラール 4T/4x
 * アレルギーのリスクを下げるならケフレックス
+
+　  
+## 企業サイト
+
+* [小児の感染症 − こどもに多いのどの病気 溶連菌感染症のおはなし | シオノギ製薬](http://www.shionogi.co.jp/wellness/diseases/contagion/streptococcal.html)
+* [溶連菌感染症とは？症状と治療について | AllAbout](https://allabout.co.jp/gm/gc/197921/)
