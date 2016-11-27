@@ -1,3 +1,8 @@
+# 評価方法
+## Bristol Scale
+![Bristol Scale](https://en.wikipedia.org/wiki/Bristol_stool_scale#/media/File:BristolStoolChart.png)
+
+
 # ROME IV
 
 ## 便秘型過敏性腸症候群
