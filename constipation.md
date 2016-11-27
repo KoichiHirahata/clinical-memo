@@ -1,8 +1,16 @@
 # 評価方法
-## <a href="https://en.wikipedia.org/wiki/Bristol_stool_scale" target="_blank">Bristol Stool Scale</a>
+## [Bristol Stool Scale](https://en.wikipedia.org/wiki/Bristol_stool_scale)
+　  
+# 治療方法
+麻黄、センナ系は耐性が起きうるので注意。
+## 硬便がある場合
+ひとまず酸化マグネシウム330mg 6T/3xを検討。
+`高齢者では腎機能低下のリスクあり、必要に応じて血中Mg濃度の測定が必要`  
+## 新レシカルボン坐剤
+朝食後1日1回使うことで排便習慣のリハビリにもなる。  
+ｸｾにもならないため、屯用の第一選択。  
 　  
 # ROME IV
-
 ## 便秘型過敏性腸症候群
 少なくとも診断の６か月以上前に症状が出現　最近３か月間は基準を満たす
 
