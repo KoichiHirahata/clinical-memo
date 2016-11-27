@@ -1,5 +1,5 @@
 # 評価方法
-## [Bristol Stool Scale](https://en.wikipedia.org/wiki/Bristol_stool_scale)
+## <a href="https://en.wikipedia.org/wiki/Bristol_stool_scale" target="_blank">Bristol Stool Scale</a>
 　  
 # ROME IV
 
