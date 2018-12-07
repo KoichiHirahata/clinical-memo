@@ -2,6 +2,7 @@
 
 ## 消化器疾患
 
+* [ピロリ](pylori.md)
 * [便秘](./constipation.md)
 
 ## Common Disease
